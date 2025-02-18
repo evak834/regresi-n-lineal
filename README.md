@@ -7,8 +7,9 @@ Dataset: https://data.mendeley.com/datasets/wmhctcrt5v/1
 2. - Descargar el dataset y el codigo regresion.py
 
 3. -Revisar la ruta de lectura de datos en el código. Cambiar ruta en caso de ser necesario
-# read in our data
+
 heart = pd.read_csv("C:/Users/LENOVO/Desktop/ML/tarea4/heart.csv")
 
 
 4. -ejecutar programa
+
