@@ -18,4 +18,6 @@ La regresión lineal en el aprendizaje automático es un desafío de optimizaci�
 
 Se inicio con un numero de iteraciones muy alto 60000, sin embargo, eso produce un retraso al momento de calcular en las iteraciones, 10000 iteraciones son suficientes y permiten una convergencia “ideal”, en cuanto a la función de coste el valor de épsilon “mejor” obtenido fue de 232, se probaron diferentes valores para la tasa de aprendizaje donde la del “mejor” ajuste observado en las gráficas fue de 0.00055. 
 
- 
+
+ <img width="934" alt="ss" src="https://github.com/user-attachments/assets/75c200c1-dd8b-4618-a5a5-333b790b43f3" />
+
